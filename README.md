@@ -1,7 +1,7 @@
 # Proyecto: Sistema de Biblioteca
 
 ## Descripción
-Este es un sistema para gestionar préstamos de libros en una biblioteca universitaria.
+Este es un sistema para gestionar préstamos de libros en una biblioteca universitaria..
 
 ## Instalación
 1. Clonar el repositorio:
