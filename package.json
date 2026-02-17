@@ -1,0 +1,31 @@
+{
+  "name": "semana6_grupo6",
+  "version": "1.0.0",
+  "description": "Este es un sistema para gestionar préstamos de libros en una biblioteca universitaria.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgmorales12/Semana6_Grupo6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cgmorales12/Semana6_Grupo6/issues"
+  },
+  "homepage": "https://github.com/cgmorales12/Semana6_Grupo6#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  }
+}
+
+
